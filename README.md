@@ -1,8 +1,3 @@
-Here’s your complete, **professionally formatted `README.md`** — ready to copy and paste directly into your GitHub repo 👇
-
----
-
-```markdown
 # 🍽️ Restaurant Ordering System
 
 A full-stack **Restaurant Ordering Web Application** built using **Vue.js (frontend)**, **Node.js + Express (backend)**, and **MySQL (database)**.  
@@ -254,11 +249,4 @@ This project is licensed under the **MIT License** — feel free to modify and u
 * Express.js Documentation
 * MySQL Official Docs
 
-```
-
----
-
-Would you like me to **add GitHub badges** (like  
-🟩 “Made with Vue.js”, 🟦 “Express.js”, 🟨 “MIT License”, ⚙️ “Node.js”)?  
-They make the top of your README look more professional and attractive.
 ```
